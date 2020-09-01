@@ -1,0 +1,776 @@
+﻿
+Name: Peanut
+Visual: light yellow, round.
+Texture: smooth, dense; might have a dark red peel that is very dry.
+Smell: subtle.
+Taste: salty, pungent sometimes. the peel is bitter.
+Main nutrient(s): Fat
+Category: Beans
+------
+Name: Soybean
+Visual: Bright green and glossy, may come with a slightly furry outer pod, often served salted at Japanese restaurants (don't eat the outside pod)
+Texture: dense, hearty, and crunchy when steamed
+Smell: slightly plant-like, earthy
+Taste: earthy and plant like, salty when salted. They taste similarly to how they smell.
+Main nutrient(s):  fiber - protein
+Category: Beans
+------
+Name: Barbecue sauce
+Visual: Varies between red and dark brown, sticky looking
+Texture: similar to ketchup, viscosity varies
+Smell: smoky, tangy, maybe a bit spicy
+Taste: similar to smell, smoky taste is dominant, BBQ chips are pretty accurate 
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Basil
+Visual: small, green leaves
+Texture: smooth and soft, they tear easily
+Smell: aromatic, savoury, depending on the plant and the freshness, can be quite intense
+Taste: savoury, but not spicy. Again, depending on the plant and the freshness, intense to mild
+Main nutrient(s): unknown
+Category: Beans
+------
+Name: Black pepper
+Visual: Whole peppercorns are dark grey to black, small wrinkly spheres. Ground pepper looks like a light grey powder
+Texture: whole/coarse pepper is crunchy and dry, ground pepper is powdery
+Smell: earthy, will make you sneeze if ground
+Taste: earthy and a bit spicy
+Main nutrient(s): low in calories - high in fiber - Vitamin A, C, D, B12
+Category: Condiments
+------
+Name: Cardamom (green)
+Visual: green pods with wrinkly black seeds inside
+Texture: Firm and dry
+Smell: sweet, almost tropical?
+Taste: warm and sweet
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Cinnamon 
+Visual: whole cinnamon is a type of tree bark, very dark and red-ish in color; powder cinnamon is a red-ish, brown-ish soft powder.
+Texture: whole cinnamon: solid, rough, gritty; powder cinnamon: soft.
+Smell: sweet and warm, woody
+Taste:  sweet; the whole cinnamon has a fainter taste than the powder, bitter if tasted raw without sugar or in something else
+Main nutrient(s):  Carbs - Vitamins - Minerals.
+Category: Condiments
+------
+Name: Chilli pepper
+Visual: red, green or orange in colour. Small to medium-sized elongated form, inside are seeds that are small, round and of a yellowish-beige colour
+Texture: The outside is smooth, the inside has more friction, when fresh also slightly wet, so after handling, it is advised to wash hands and not to touch in sensitive areas such as eyes. The seeds are smooth as well. 
+Smell: spicy, sharp smell
+Taste: spicy, hot.
+Main nutrient(s): High in fiber - Vitamin A, C, D, B12 and B6
+Category: Condiments
+------
+Name: Chive
+Visual: long, drinking straw shaped, green plant, often chopped into ¼" pieces and served as a garnish on baked potatoes or casseroles
+Texture: raw- crunchy, wet. Cooked- soft, maybe with a small crunch, wet.
+Smell: somewhere between garlic and onions, pungent, slightly earthy
+Taste:   oniony and garlicy, but milder, they are a relative of onions
+Main nutrient(s): fiber - vitamins
+Category: Condiments
+------
+Name: Clove
+Visual: dark brown, looks like tiny twigs with a round top
+Texture: hard, very difficult to break
+Smell: warm, earthy, spicy
+Taste: similar to cinnamon and nutmeg, savoury but can add to sweet dishes
+Main nutrient(s): unknown
+Category:  Condiments
+------
+Name: Coriander (ground or whole seeds)
+Visual: tan, kinda stripey, shape of tiny acorns without the cap
+Texture: whole seeds are crunchy, dry, hollow in the middle 
+Smell: tangy
+Taste:  slightly savoury with a hint of lemon 
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Garlic 
+Visual: white, maybe yellow-ish.
+Texture: dense.
+Smell: strong smell; might linger on fingers for hours or even days when dealt with (raw), if you don't wash your hands properly right after cutting them.
+Taste:  when raw: acidic (pepper-like), intense. When fried or cooked it loses most of its acidity and intensity, leaving most of its characteristic taste.
+Main nutrient(s):  Vitamins - Minerals.
+Category: Condiments
+------
+Name: Garlic sauce
+Visual: white or light yellow sauce.
+Texture: thick yet smooth
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Guacamole
+Visual: green (from avocado), sometimes can have red (from tomatoes or bell peppers)
+Texture: smooth, but also can be chunky
+Smell: description.
+Taste:  description.
+Main nutrient(s): fat
+Category: Condiments
+------
+Name: Honey
+Visual: viscous liquid, dense. Ranges from light yellow to dark brown.
+Texture: smooth, viscous. Low quality or “older” honey may have grainy crystalized texture. Supermarket honey is largely homogenous and will be thicker than most other syrups. For other “specialty” honeys, viscosity will vary based on plants used by bees, from thin and watery all the way to manuka honey, which is very viscous and thixotropic.
+Smell: sweet, faint.
+Taste:  very sweet and sugary with floral undertones. Exact undertones will vary greatly based on environmental factors such as season, plants harvested by the bee, etc. 
+Main nutrient(s): Carbs (sugar)
+Category: Condiments
+------
+Name: Horseradish (sauce)
+Visual: white liquid, may confuse for mayonnaise or sour cream at first.
+Texture: smooth and creamy. Thickness can vary from runny to soft peaks.
+Smell: sharp and pungent, sometimes vinegary. Similar to mustard.
+Taste:  mustardy, peppery, slightly grassy, vinegary and sharp, too much can hurt your nose, can be spicy.
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Hummus
+Visual: paste; its color ranges from white, to green, to yellow depending on the recipe. Might be homogeneous or have small particles of some of the ingredients. 
+Texture: thick paste, can be grainy depending on the preparation.
+Smell: barely noticeable, can smell bitter, often smells of the flavoring added eg. garlic
+Taste:  salty, a little sour, acidic (pepper).
+Main nutrient(s):  Fiber - Protein - Vitamins - Minerals.
+Category: Condiments
+------
+Name: Karo (corn syrup)
+Visual: dense liquid, viscous; dark yellow (shiny beige).
+Texture: dense liquid, viscous; not as viscous as honey (its more “watery” than honey).
+Smell: faint sweet smell.
+Taste:  sweet.
+Main nutrient(s): Carbs (sugar)
+Category: Condiments
+------
+Name: Ketchup
+Visual: ranges from light red to deep dark red.
+Texture: smooth homogeneous dense liquid (not too dense, not too liquid).
+Smell: salty?, can be a strong smell, tangy
+Taste:  salty, vinegar-like.
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Kimchi
+Visual: soft, wet, long cabbage leaves. Coated in a grainy paste of red pepper flakes, vinegar, and salt. May contain bits of white radish and carrot. Red and white. Usually seen at Korean restaurants. May contain seafood.
+Texture: crunchy and wet, with grains of seasoning
+Smell: highly fermented. Sour like vinegar and pickles. Spicy. A distinct fermented funk that can only come from kimchi.
+Taste:  hot and spicy, ranging from a mild burn to 10 alarm fire. Very vinegary, and fermented like sauerkraut. (It's like spicy sauerkraut)
+Main nutrient(s): fiber - vitamins - water.
+Category: Condiments
+------
+Name: Maple syrup
+Visual: Amber coloured, ranges from light to dark 
+Texture: thick and sticky liquid
+Smell: sweet but woody
+Taste: very sweet
+Main nutrient(s): carbs (sugar)
+Category: Condiments
+------
+Name: Marinara sauce
+Visual: very liquid-y; pure red, sometimes with small green particles.
+Texture: liquid, not dense (different texture from ketchup!), sometimes chunkier
+Smell: ---.
+Taste:  Faintly salty, tomato taste.
+Main nutrient(s):  Carbs - Vitamins
+Category: Condiments
+------
+Name: Mayonnaise
+Visual: beige-ish white to light yellow, creamy
+Texture: creamy, smooth
+Smell: slightly acidic, if made fresh, a little like egg (as well as other ingredients used, e.g. garlic mayonnaise)
+Taste:  salty, slightly acidic with a tinge of sweetness
+Main nutrient(s): fat
+Category: Condiments
+------
+Name: Miso
+Visual: a white, beige, yellow, or red grainy paste used as an ingredient in Japanese cooking. 
+Texture: Not to be eaten alone, adds a slightly grainy texture to food, but can be strained off to leave a  nice flavor with no texture in broths, soups, dressings. Made of fermented soybeans.
+Smell: earthy and maybe a little acidic, fermented
+Taste:  an umami bomb, salty, rich, meaty almost.
+Main nutrient(s): salt - probiotics
+Category: Condiments
+------
+Name: Mustard
+Visual: paste; color ranges from light yellow to beige or light brown; darker mustard usually has small mustard seed particles (little brown dots).
+Texture: light yellow is usually very processed and very watery; darker mustards are usually thicker (denser) and might have a grainy feeling if they have mustard seed particles.
+Smell: not too strong.
+Taste:  salty, peppery, usually intense. Taste will vary based on type of mustard, from some that are closer to mild to some that are similar in strength to horseradish
+Main nutrient(s):  unknown
+Category: Condiments
+------
+Name: Nutmeg
+Visual: in the ground form, a brown powder. Nutmeg is sometimes left in its “nut” form and grated fresh over a recipe. The nut is small, round, brown, and slightly woody.
+Texture: description.
+Smell: earthy and warm, woody
+Taste:  savoury and sweet, like cinnamon or clove
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Olive oil
+Visual: thick liquid (dense), bright beige to light green
+Texture: smooth, dense, oily, lingers on your mouth and tongue after swallowing it if you eat it pure.
+Smell: faint olive smell.
+Taste:  pungent? A little bitter. Not salty when by itself. Expensive olive oil is peppery.
+Main nutrient(s):  Fat - Minerals.
+Category: Condiments
+------
+Name: Oregano
+Visual: small, green (fresh) or dark green+brown (store bought) leaves with little twigs.
+Texture: fresh feels like leaves; store bought (dry) feels very dry and crunchy. Because they are leaves, some will attach to your teeth and/or mouth.
+Smell: not too strong, oregano smell.
+Taste:  faint mixture of salty + bitter + SLIGHTLY peppery.
+Main nutrient(s):  Fiber - Vitamins - Minerals.
+Category: Condiments
+------
+Name: Parsley
+Visual: very small green leaves.
+Texture: leaves; when eaten raw and fresh they can be resistant to biting (not easy to cut them with your teeth).
+Smell: barely noticeable.
+Taste:  description.
+Main nutrient(s):  Fiber - Vitamins.
+Category: Condiments
+------
+Name: Peppermint
+Visual: small, green leaves, usually a darker shade
+Texture: riffled, veiny. Tears easily 
+Smell: fresh, but sharp. Menthol. Can be used to cover unpleasant smells. Plant-like, forest-y
+Taste: fresh, sharp, causes tingling on the tongue. May also taste slightly bitter. Has cooling effect. Main nutrient(s): Vitamins including Vitamin A, C, D, B6 and B12 as well as iron
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Pesto
+Visual: spotty green and white paste with an oily sheen. Made of basil, garlic, parmesan, and Olive oil that has been ground into an almost fine paste with little bits of ingredients still visible. Often seen in pastas, on sandwiches, pizza, bread.
+Texture: slightly smooth, bits of cheese and basil, oily
+Smell: very "Italian" but without the tomato. Earthy, cheesy, garlicy, a lot of basil.
+Taste:  cheesy and bright, Herby, a distinct lingering of olive oil, may have tangy lemon notes
+Main nutrient(s): fat
+Category: Condiments
+------
+Name: Salsa
+Visual: usually chunky, with bits of tomato, and sometimes bell pepper, onion, jalapeno if spicy, bright red but can be green 
+Texture: chunky, cooked tomatoes and other vegetables are a little squishy and wet
+Smell: strongly of tomatoes, tangy
+Taste: sweet, salty, can be spicy 
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Sauerkraut
+Visual: wet, almost translucent shreds of cabbage in an almost clear liquid. Often served in German and Jewish cuisine on sausages or sandwiches. 
+Texture: wet and crunchy
+Smell: pungent with vinegar, slightly earthy, very fermented.
+Taste:  very sour. Can be rinsed to reduce sour flavor. Slightly of cabbage with earthy notes. Salty.
+Main nutrient(s): fiber -salt - minerals
+Category: Condiments
+------
+Name: Sesame oil
+Visual: darker brown oil, more viscous than other oils
+Texture: smooth, lingers a bit
+Smell: nutty, can be very strong/aromatic
+Taste: description
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Sour cream
+Visual: white thixotropic fluid similar in appearance to greek yogurt.
+Texture: description.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Soy sauce
+Visual: description.
+Texture: description.
+Smell: description.
+Taste:  salty.
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Spinach dip
+Visual: usually a paste-like dip, 
+Texture: description.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Tahini (dressing)
+Visual: warm yellow/beige/light brown liquid paste, might have small ingredient particles.
+Texture: Similar to many nut butters, tahini will separate drastically when left to sit, into a very thick grainy layer that is difficult to stir and a thin oily layer. After vigorous stirring, these layers will incorporate together into a slightly grainy paste.
+Smell: not too strong.
+Taste:  a mixture of pepper+acidic+salty. Pepper is the strongest taste.
+Main nutrient(s):  Fiber - Fat - Protein - Minerals.
+Category: Condiments
+------
+Name: Tabasco (pepper)
+Visual: description.
+Texture: description.
+Smell: smells of vinegar and spice (hot).
+Taste:  vinegar, spicy
+Main nutrient(s): unknown
+Category: Condiments
+------
+Name: Black beans (cooked)
+Visual: black or really dark brown.
+Texture: there is a peel that can come off the bean; the bean itself when cooked is dense and humid, but feels soft to the tongue; accompanied by the broth that can be very dense or liquid depending on the preparation, it has the same taste as the beans.
+Smell: ---.
+Taste: depends on the preparation, but has a stronger taste than the common beans.
+Main nutrient(s): Fiber - Protein - Vitamins - Minerals.
+Category: Beans
+------
+Name: Chickpeas
+Visual: spherical with a slight dent; light golden yellow.
+Texture: varies depending on preparation. Roasted or fried chickpeas will have some level of crunch. Any “wet” preparation will be softer. The longer the bean is cooked or soaked, the softer it will be. Very soft chickpeas have a faint “grainy” quality.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Beans
+------
+Name: Common beans (cooked)
+Visual: usually brown, broth.
+Texture: There is a peel that can come off the bean; the bean itself when cooked is dense and humid, but feels soft to the tongue; accompanied by the broth that can be very dense or liquid depending on the preparation, it has the same taste as the beans.
+Smell: ---.
+Taste:  depends on the preparation (garlic, onions, salt, bay leaf).
+Main nutrient(s): Fiber - Protein - Vitamins - Minerals.
+Category: Beans
+------
+Name: Butter
+Visual: color varies from a creamy off-white to a bright “buttercup” yellow. Matte solid that grows shiny if warmed. When warmed, it will become a yellow liquid with white solids (the milk fats) floating on top.
+Texture: depends on temperature; if cold, hard but smooth, room temperature soft, smooth, easy to mold. Heated it becomes liquid, greasy.
+Smell: slight milky smell, also slight greasy smell
+Taste:  very mild, milky, a little greasy. If salted, salty. Butter should be used quickly, especially if unsalted, and kept covered, or it will develop an “off” or “rancid” taste, and/or take on the flavors of other foods around it.
+Main nutrient(s): fat - Calcium
+Category: Dairy
+------
+Name: Cheddar (cheese)
+Visual: description.
+Texture: description.
+Smell: description.
+Taste:  there are many variations of cheddar cheese like sharp, medium and mild that all taste a bit different. Each kind can also vary a lot batch-to-batch.
+Main nutrient(s): fat - vitamins - protein
+Category: Dairy
+------
+Name: Condensed milk
+Visual: viscous, dense; color ranges from white to yellow-ish white.
+Texture: very viscous and dense liquid.
+Smell: very sweet, faintly smells like sugary milk.
+Taste:  REALLY sweet, milk-like.
+Main nutrient(s):  Carbs - Fat
+Category: Dairy
+------
+Name: Cottage cheese
+Visual: color ranges from white to off-white. Pieces of cottage cheese vary from lentil-sized pellets to sesame seed-sized. Moisture may pool inside the container it is kept in. 
+Texture: When opening a new container of cottage cheese, the surface is often more fine in texture than the rest of the contents. Overall texture is typically smooth/creamy to slightly grainy.
+Smell: Smell is not strong. Mild dairy smell, slightly fresh.
+Taste: Taste is similar to fresh mozzarella, but less strong. Overall, savoury and light, may be slightly salty.
+Main nutrient(s): Fat - protein
+Category: Dairy
+------
+Name: Cream cheese
+Visual: usually white, but takes colouration of used ingredients
+Texture: smooth, soft, very dense. Melts in mouth.
+Smell: milky, slightly sour. Also takes smell of used ingredients
+Taste: fresh, slightly sour, slightly salty. Very mild. Will take taste of used ingredients
+Main nutrient(s): fats - Calcium
+Category: Dairy
+------
+Name: Dulce de leche
+Visual: can be a VERY dense paste or a solid block (the block you usually only find in Brazil?). Dark beige, light brown or brown.
+Texture: the paste feels very dense and “sticky” (it can stick to your teeth depending on the manufacturer and how/with what you’re eating it). The block is solid but becomes very grainy when bitten and melts away in your mouth.
+Smell: very faint sweet smell.
+Taste:  REALLY sweet, sugary, milk.
+Main nutrient(s):  Carbs (sugar)
+Category: Dairy
+------
+Name: Eggnog
+Visual: creamy white to light yellow, usually with bits of nutmeg visible (which is brown). May contain rum.
+Texture: very smooth and thick.
+Smell: description.
+Taste:  sweet, creamy, rich. 
+Main nutrient(s): fat - protein
+Category: Dairy
+------
+Name: Feta (cheese)
+Visual: Comes in a block form, color typically pure white. Very dense structure.
+Texture: At first the texture is slightly dense, the cheese is also usually moist. When chewed it becomes smoother in texture.
+Smell: Somewhat strong dairy smell. As it is produced from sheep/goat milk, it has a slight aroma to it, but much less so than goat’s cheese.
+Taste: Feta cheese has a quite strong taste compared to other, milder cheeses. It is slightly nutty, and very fresh.
+Main nutrient(s): Fat - protein
+Category: Dairy
+------
+Name: Ghee
+Visual: Bright yellow soft solid.
+Texture: Very soft solid when cold, liquid when warm.
+Smell: description.
+Taste:  buttery
+Main nutrient(s): unknown
+Category: Dairy
+------
+Name: Gorgonzola (cheese)
+Visual: white cheese with very deep dark green spots (mold)
+Texture: moist and “dusty” (it breaks easily into small pieces), sticky.
+Smell: REALLY STRONG SMELL.
+Taste:  REALLY STRONG TASTE. Usually used in small amount in recipes with other cheeses.
+Main nutrient(s):  Fat - Protein
+Category: Dairy
+------
+Name: Kefir
+Visual: a yogurt drink, may be white (plain), blueberry, strawberry, or mango. 
+Texture: velvety, drinkable yogurt. Can add milk to thin it out.
+Smell: sour, milky, may be fruit flavored
+Taste:  very much of yogurt but more sour, may be sweet and fruity if flavored. Can add more sugar to make it sweeter.
+Main nutrient(s): carbs (sugar) -high protein -fat -probiotics -calcium
+Category: Dairy
+------
+Name: Mozzarella (cheese)
+Visual: White, soft but solid (it will deform a bit when you poke it, but you can’t spread it)
+Texture: feels wet, slightly chewy, slightly stringy
+Smell: Very weak/non existent smell
+Taste:  Weak, slightly milky flavour, some brands can have an unpleasant bitter/acidic aftertaste, though this might go away when cooked 
+Main nutrient(s): fats
+Category: Dairy
+------
+Name: Yakult
+Visual: liquid, color between white, yellow and light brown.
+Texture: very liquid (watery), a certain texture (kinda of a rough texture?) lingers on your tongue.
+Smell: sour milk, sweet.
+Taste:  sour milk, really sweet.
+Main nutrient(s):  Carbs - Fat - Vitamins
+Category: Dairy
+------
+Name: Almonds
+Visual: small “almond” shaped nuts. The exterior is light brown, purple-ish tone, with “small canals” on the surface; if it’s roasted and salty, it will have a light brown dust over all of it. The interior is light yellow and homogeneous.
+Texture: the exterior has a smooth “skin” but can feel rough due to the “small canals” it has. The salt feels like soft fluffy sand (if the almonds are roasted and salty). The interior is dense, smooth and homogeneous; texture is similar to peanuts. It is relatively crunchy and dry (does not release oil or liquids when bitten).
+Smell: barely noticeable.
+Taste:  very specific taste, very soft. It isn’t exactly salty, sweet or oily when raw, IMO it tastes sweet (just tastes bland to me). When roasted with salt, it tastes salty with a little bit of sweetness to it.
+Main nutrient(s):  Carbs - Fat - Protein - Vitamins 
+Category: Fruits
+------
+Name: Apple
+Visual: thin peel that can vary in color (red, green, pink, yellow, red/yellow, dark red). Inside is white, grainy. Might have some green “veins” on the white. Contains small to medium sized dark brown seeds at the core. 
+Texture: the peel is dry and smooth. The inside (white) can feel a little bit rough and grainy to the tongue. Biting it will release juice (not as much as pears). The white part closer to the center is harder to bite than the “outside” or periphery. Apple texture can vary wildly based on age of apple, temperature of apple and kind. Some kinds like Mcintosh are soft and “fleshy”, and variants like gala and granny smith are harder, crisp and somewhat sharp. Apples like red delicious are dry and hard. Apples that have been refrigerated tend to be a bit more crisp/sharp than room temperature apples. An apple that is older can have a “mealy” texture: soft, dry and grainy.
+Smell: perfume (alcohol-like). Apple scent usually isn’t particularly strong until the apple is bit into or cut up. A warmer apple will usually have a stronger scent.
+Taste:  red apples: adstringent (?), faintly sweet, can be a little bitter or sour depending on the maturity. Green apples (USA): very sweet, tastes like pears but with a different texture (texture of an apple). Apples can range the gamut from incredibly to mildly sweet -- softer apples like Macintosh or Pink Lady tend to be sweeter, and more crisp apples like granny smith tend to be sharper.
+Main nutrient(s): Carbs (sugar) - Fiber - Vitamins
+Category: Fruits
+------
+Name: Apple Sauce
+Visual: description.
+Texture: description.
+Smell: Fairly strong and aromatic, depending on what spices have been added and the temperature of the apple sauce. Apple sauce usually smells stronger than an apple does because it is more concentrated. Warmed apple sauce has a stronger scent than cold applesauce. Cinnamon and nutmeg are common spices that are added to apple sauces, both of which have fairly strong and distinctive smells.
+Taste: very sweet, and tastes like red apples (see apples)
+Main nutrient(s): carbs (sugar) - vitamins
+Category: Fruits
+------
+Name: Banana
+Visual: on the exterior green, then bright yellow, then yellow with brown spots, then brown, as banana ages. Inside, they are a pale yellow, and can have brown spots if bruised. The yellow darkens some as the banana gets older. Touching a peeled banana can leave your hands feeling somewhat sticky.
+Texture: bananas are soft, and after being peeled often have stringy bits on the outside that run the length of the banana that can have a dry texture, and sometimes come free from the banana as you eat it. Older bananas that have browning peels are even softer, their texture becomes more buttery. Greener peel bananas have a firmer texture, though they are still incredibly soft. Some varieties of bananas may contain a slight grainy texture from very tiny seeds.
+Smell: The smell of a banana becomes stronger as the banana ages, and is strongest at the top and the bottom of the banana peel. Scent is pretty even once peeled. A banana with a stronger scent smells more sweet and sugary.
+Taste: mild but sweet, though the banana gets sweeter as it ages. Some bananas are sweeter than others.
+Main nutrient(s): vitamins - carbs (sugar)
+Category: Fruits
+------
+Name: Brazilian nuts
+Visual: 2cm to 3cm (about an inch) long, relatively big. Yellow-ish white (homogeneous) with a dark brown peel.
+Texture: Peel is dry and flaky. The nut itself is dense and dry, not very crunchy.
+Smell: barely noticeable.
+Taste:  rancid, oily.
+Main nutrient(s):  Carbs - Fat - Protein - Vitamins 
+Category: Fruits
+------
+Name: Cherry
+Visual: Small, roundish dark red fruit. Very thin skin with juicy flesh underneath and a pip inside. Typically has a stem to hold onto. Juice will stain hands/mouth slightly. May get small brown areas when over-ripe.
+Texture: Depends on how ripe it is, starts a little hard (not quite crunchy) and ripens to soft. Very juicy when you bite into it. 
+Smell: Slightly fruity, not super noticeable 
+Taste:  Sweet, taste is less strong when it’s less ripe, can be very slightly sour
+Main nutrient(s): 
+Category: Fruits
+------
+Name: Durian
+Visual: football to basketball shaped fruit covered in spikes. Outside is greenish tan. Native to southeast Asia. Inside is a creamy yellow. May be found in cookies at specialty stores and Asian grocers.
+Texture: creamy
+Smell: described as "rotting trash, death", often banned from hotels due to severe malodor
+Taste:  despite it's horrifying smell, some people like it. Sweet but the smell is enough to keep most people from eating it.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Grape
+Visual: oval shaped, shiny and smooth peel that can vary in color (green, red, purple). Might have small brown dots or little damages to it. Irregular size and shapes.
+Texture: peel is smooth, dry. The inside is like a hard, consistent jello. Releases a lot of juice and can sometimes “explode” when bitten with molars. To avoid that, try eating in small sections by biting with your front teeth. If the grape has seeds, you will see and feel small, dry, rough texture of the seeds when you’re eating. Seedless grapes do not have that texture.
+Smell: faint perfume (alcohol-like).
+Taste:  can be incredibly sweet or really sour, depends on how ripe it is. Green grapes are typically more sour than red or purple grapes. Citrus-like?
+Main nutrient(s): Carbs (sugar) - Fiber - Vitamins
+Category: Fruits
+------
+Name: Honeydew melon
+Visual: Oval/round but smaller than a watermelon, maybe around 15cm. Light green-white on the outside with light green flesh inside. The flesh will become a darker light green colour as it ripens. Has a mass of seeds in the middle which are generally scraped out and disposed of similar to rockmelon/cantaloupe or pumpkin seeds. The rind is much thinner than watermelons so can be cut away completely to leave just the flesh. The rind often has a ‘webbed’ appearance with white lines over light green.
+Texture: Dense, soft, can be slightly slimy depending on how ripe it is. Very juicy, kind of similar to pears but without being grainy at all. Can get slightly harder close to the rind. When not as ripe, honeydew are often harder and not very juicy.
+Smell: Fruity, not too strong
+Taste:  Very sweet, mild flavour. Never sour or bitter, will just taste more strongly sweet/melony as it ripens. Very different taste to rockmelon/cantaloupe. 
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Lemon
+Visual: bright yellow skin with slight pitting. Inside a pale yellow flesh with white-ish lining..
+Texture: skin is smooth with slight pitting texture. Interior texture is wet and soft, with some stringy-ness.
+Smell: extremely citrusy, strong and sharp. Outside of food products the distinctive scent is used in cleaning products, soaps, aromatizers, lotions, and perfumes, and it pretty much smells the same fresh, though it is less chemically
+Taste: frequently used as an additive flavoring in foods for added bitterness, though it can be made sweeter, a tinge of the bitter remains. Naturally contains a fair amount of sugary taste, though that can be overwhelmed by the sharp bitter taste
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Passionfruit
+Visual: Very dark purple on the outside, once opened there is a white rind and it is filled with black seeds surrounded by yellow flesh. The seeds and flesh are attached to the rind on little pink/white attachment points that are lined up in distinct areas. The seeds are a similar size to watermelon seeds.
+Texture: Flesh is juicy and a bit stringy, has to be scraped from the rind. The seeds feel hollow and crunchy when bitten-much easier to break with your teeth than watermelon or grape seeds
+Smell: Strongy fruity smell, slightly acidic
+Taste:  Sweet fruity taste, but can be sour or acidic depending on ripeness. Very similar to artificial passionfruit flavourings
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Peach
+Visual: Very similar shape to nectarines but the thin skin is covered with an edible fuzz. The inside flesh of the fruit is yellow near the skin and will become more red as it nears the center pit and it can appear a bit veiny.
+Texture: description.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Pear
+Visual: thin peel, light green or yellow, with little dots that can be green or brown. Might have bigger brown spots. The inside is white, looks grainy.
+Texture: the peel is very dry. The “meat” or the inside can feel very grainy. When bitten, it will release a lot of juice (more than apples!).
+Smell: With a peel there is no smell. Without a peel, the smell is usually faint, like a perfume.
+Taste:  Sweet, watery. Can be a little sour or acidic depending on how ripe it is.
+Main nutrient(s):  Carbs - Fiber - Vitamins
+Category: Fruits
+------
+Name: Plum
+Visual: the skin can range from a red with some yellow to a dark purple. The flesh of the fruit is typically redder near the skin and yellower toward the center pit, but the center can also be entirely red. The interior flesh can appear veiny.
+Texture: description.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Pineapple
+Visual: description.
+Texture: soft and somewhat stringy, can occasionally have sharp barbs if eating fresh cut pineapple. If tinned much softer and less stringy. In areas where the fruit is bruised the texture softens. The very center of the pineapple is incredibly hard and dry, while the rest of the fruit is wet. In tinned pineapples, the fruit often floats in a liquid that can be syrupy.
+Smell: strong, sweet and somewhat sharp. In an uncut pineapple it is strongest at the bottom of the fruit. Scent grows stronger when the pineapple is being cut up. Tinned pineapple smells overwhelmingly sweet.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Raisin
+Visual: can be golden yellow, brown, red, bluish black, or a dark reddish purple..
+Texture: the outside is very wrinkly and can be sticky. The inside is dense, but still soft if the raisins are still fresh. Raisins become harder and less sticky over time.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Raspberry
+Visual: Small light red berry made up of lots of little bits connected together (similar to blackberries/boysenberries) to form a rounded cone with a hollow space in the middle (large enough to fit over a small finger). Each small bit has a small seed surrounded by pulp. 
+Texture: Outside is slightly velvety (not smooth like blackberries). The small pieces are easily pulled apart from the rest of the berry into smaller chunks. The inside has fruity pulp and the seeds may bother some people, but they are not as bad as larger seeds like grape or watermelon. 
+Smell: Fruity
+Taste:  Fruity, sweet. One of the few fruits to taste quite similar to artificial products as they are candy-like. Safer than other fruits taste wise as they are never sour
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Strawberry
+Visual: can be found in different shades of red. There are many small yellow seeds indented into the surface of the strawberry. The interior is red near the edge, becomes white near the center, and has a light red center that appears more grainy.
+Texture: the outside of the strawberry is smooth, except for the many pits which are tiny bumps. You don’t typically notice them while you chew the strawberry. The center of the strawberry can be more grainy, but it can be cut out along with the stem easily.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Tomato (Pomodoro)
+Visual: red fruit, somewhat small.
+Texture: rubbery on the outside; watery with seeds on the inside - insides tend to glop over the knife or surface when cutting into one.
+Smell: description.
+Taste:  description.
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Walnuts
+Visual: Shelled ones look like little brains, light brown/cream on the inside with a thin slightly darker brown flaky covering
+Texture: Similar to other nuts, hard but softer than some nuts. The flaky covering is papery and will sometimes get caught in your throat
+Smell: No strong discernable smell
+Taste:  Nutty, can be quite bitter. The darker the flaky covering the more bitter it will be generally (removing the covering as much as you can by hand can help lessen the bitterness)
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Watermelon
+Visual: Large round fruit with a rind that is either very dark green or light green with darker green stripes. Sometimes has yellow areas where it has grown against the ground. Inside is pink to light red, fading to white as it goes to the rind. Some varieties are instead bright yellow inside. Some are seedless (will generally still have very small white immature seeds), normal ones will have both softer white seeds and hard light to dark brown ones. 
+Texture: Very very juicy, ones that are ideal ripeness will be a bit crunchy, overripe ones will start to go softer. The juice is liable to run down your hands. Some can be a bit grainy/silty. The brown seeds are hard and some people swallow them but you can also spit them out. If the brown seeds get between your teeth as you chew they can split open. The white seeds are less hard and maybe very slightly slimy texture.
+Smell: Fruity when cut
+Taste:  Sweet but not too strong unless overripe. Taste changes a bit as you get closer to the rind (less sweet)
+Main nutrient(s): unknown
+Category: Fruits
+------
+Name: Ciabatta
+Visual: White loaf or bun/roll similar to standard white bread, but is generally handmade so it is more rounded. Has a crust but it is less thick than standard white bread and generally dusted with flour. Inside is cream/tan coloured with larger air pockets than standard white loaves. Lower quality ones will be just the same as white loaves inside. 
+Texture: Soft but can be slightly more doughy inside. Different to standard white bread, kind of smoother/less dry inside (but isnt wet/damp or anything). Goes stale faster than standard bread and will get really hard when it does. Toasts well but slightly differently to standard bread
+Smell: Yeasty
+Taste:  Very similar to standard white bread but with a slight sourdough like taste (not as strong as standard sourdough breads)
+Main nutrient(s): unknown
+Category: Grains
+------
+Name: Corn Cereals (Kellog’s, etc)
+Visual: Typically tan or brown, some are dyed to look different.
+Texture: dry and crunchy (eaten without milk).
+Smell: there is no smell associated with them
+Taste:  Depends on the kind. Plain rice chex/corn flakes have a very mild taste. They’re typically very tolerable. Other kinds may have specific flavors, such as cinnamon, or honey. Because the plain cereal is so mild the taste of the flavor is the only taste you’re likely to notice.
+Main nutrient(s): unknown
+Category: Grains
+------
+Name: Salmon (cooked)
+Visual: Pinky orange fish with white stripes, gets lighter in colour as it cooks. Can be as pieces of fish with the skin attached or as cubes with the skin unattached (cooks best with the skin attached). Can have a thin layer of brown between the meat and the skin. Can come either deboned or with small bones still inside. The skin is like the outside of a fish- they will generally be descaled but sometimes there are still a few lightly stuck to it. 
+Texture: Similar to other fish but more fibrous/stringy? More similar texture to other meats like chicken than standard white fish meat is. Depends on the type but some the white stripes can be more prominent/stringy (fresh New Zealand caught ones are) whereas in others it’s not really discernable from the rest of the meat (atlantic, thawed from frozen). If there is a layer of brown between the meat and the skin this will often stick to the meat when you seperate it from the skin, and it can be kind of gelatinous and will be sticky if it gets on your fingers. Easy enough to scrape from the meat with a fork or knife though
+Smell: Fishy
+Taste:  Fishy, but different to white fish meat. Kind of a unique taste. Stronger taste than fresh white fish
+Main nutrient(s): unknown
+Category: Meats
+------
+Name: Soy crumbles
+Visual: dry, brown, crumbly, "cooked ground beef", made from soy as a meat replacement in tacos, chili, pasta sauce
+Texture: dry and with a chewyness similar to ground beef, but without the fat.
+Smell: used as a blank canvas, it has almost no smell when uncooked. Readily absorbs any sauces and spices.
+Taste:  does not taste like beef at all. Takes on any flavor it is cooked in.
+Main nutrient(s): protein - fiber - carbs
+Category: Meats
+------
+Name: Tuna (canned)
+Visual: White pulled muscle fiber, like chicken or roast beef
+Texture: Meat, very tender
+Smell: Fish but not too strong, watered out
+Taste: Literally chicken
+Main nutrient(s): unknown
+Category: Meats
+------
+Name: Cheese sticks
+Visual: a stick about 5inches long. Usually a light yellow, but can be an orange color depending on the type of cheese
+Texture: description.
+Smell: description.
+Taste:  description.
+Main nutrient(s): fat - protein
+Category: Meals
+------
+Name: Falafel
+Visual: round shape (ball), brown exterior due to frying, inside it’s green with lots of little particles of the ingredients. 
+Texture: similar to meatballs, but more fibrous, “chunky” and moist.
+Smell: ---.
+Taste: salty, can be bitter and hot (pepper)
+Main nutrient(s): Fiber - Protein - Vitamins
+Category: Meals
+------
+Name: Gnocchi (potato)
+Visual: Roundish, light yellow/beige coloured, might have grooves or dimples depending on the brand
+Texture: Similar to mashed potato but more solid, depends on how they were made, can feel dry if consumed on their own with no sauce
+Smell: During cooking can have a weak, slightly floury smell 
+Taste: On their own they have a very plain taste, again similar to mashed potato, can be slightly salty or slightly buttery depending on the brand/recipe
+Main nutrient(s): carbs
+Category: Meals
+------
+Name: Mac’n’cheese
+Visual: noodles with a cheese sauce. Depending on the type of cheese it is, the color of the cheese sauce can vary from a super light yellow, to an orange color
+Texture: description.
+Smell: description.
+Taste:  cheesy, salty.
+Main nutrient(s): carbs - protein
+Category: Meals
+------
+Name: Pierogi
+Visual: white, half circle shaped, similar to ravioli, puffy middle
+Texture: the outside is soft yet dense, with a pasta like texture, inside is smooth, filled with mashed potatoes, maybe onion or cheddar cheese too.
+Smell: pasta like with a slight note of potatoes, oniony if with onion
+Taste:  very similar to pasta. Mashed potatoes, cheese, onion.
+Main nutrient(s): carbs - fat
+Category: Meals
+------
+Name: Pizza (cheese) (BRAND?)
+Visual: description.
+Texture:. A sticky-greasy texture of cheese, with a somewhat harder bread texture on the bottom, and if the sauce is exposed, a smooth liquid texture
+Smell: A combination of (usually) light cheese, with bread overtop and a slight bit of tomato depending on the sauce content. .
+Taste:  dependant on cheese used, generally a range of weakly to very milky combined with the tang of the sauce..
+Main nutrient(s): unknown
+Category: Meals
+------
+Name: Spaghetti (aioli)
+Visual: pasta looks light yellow, with small random pieces of fried garlic. Leaves (oregano/basil/chive/etc) can be added.
+Texture: pasta al dente will be soft yet resistant to the bite. A little oily due to the oil you fry the garlic in. Garlic can be eaten or avoided; if eaten, they are a little chewy.
+Smell: ---.
+Taste:  salty, fried garlic, leaves (if added). Soft taste.
+Main nutrient(s): Carbs - Vitamins (folic acid if store bought)
+Category: Meals
+------
+Name: Artichoke (steamed or boiled)
+Visual: Dark green unopened flower. Large, at least fist sized usually. Made up of leafy ‘scales’ in layers that have a small amount of flesh on each one. In the middle the ‘scales’ get smaller and thinner, ending in a collection of fibrous ‘thistles’ in a circular pattern. Once the thistles are scraped away (inedible) the artichoke heart is left, which looks like a shallow dish on a stem.
+Texture: The flesh on the inside of the ‘scales’ is soft and mushy, it is scraped away using your teeth. Can be slightly harder depending on how long it’s been cooked (but should be at least softish). There is a thin layer of whiter flesh over green which can be smooth on top. The artichoke heart is more dense and gets more stringy the closer to the stem. The stem is very stringy (but edible) and may have small bits of leaf still attached. 
+Smell: Not too strong, but depending on your genes may make your pee smell strongly (same as asparagus does)
+Taste:  Unique, the only thing it is similar to is asparagus. Not super bitter or anything. Commonly eaten dipped in melted butter/margarine (but doesn’t have to be)
+Main nutrient(s): unknown
+Category: Vegetables
+------
+Name: Broccoli (steamed)
+Name: Visual: bright green clumps with little “leaflets” shaped like almonds
+Texture: grainy, crunchy.
+Smell: description.
+Taste: doesn't really have much of a taste—will pick up the flavors of whatever you cook it with (eg: salt, cheese, olive oil, butter, pepper). Has a strong, bitter taste depending on your genes (is likely if you are a supertaster) 
+Main nutrient(s): carbs - vitamins - minerals
+Category: Vegetables
+------
+Name: Beer (American light beer)
+Visual: Yellow liquid, bubbly
+Texture: Carbonated, like soda
+Smell: description.
+Taste:  Light tang and spice, depends on brand
+Main nutrient(s): unknown
+Category: Liquids
+------
+Name: Beer (IPA)
+Visual: A golden amber colour with a light foam
+Texture: smooth fizz, not quite as smooth as stout but smooth none the less.
+Smell: ---.
+Taste:  Warm slightly bitter taste with varying sweetness and other attributes. Look at paring suggestions and flavour profiles on the bottle for info per IPA.
+Main nutrient(s): unknown
+------
+Category: Liquids
+Name: Liquor (baileys)
+Visual: Creamy brown milk like liquid
+Texture: Similar to milk, maybe slightly thicker
+Smell: alcohol
+Taste:  Smooth creamy taste but with an obvious afternote of strong alcohol
+Main nutrient(s): unknown
+Category: Liquids
+------
+Name: Liquor (butterscotch liqueur)
+Visual: description.
+Texture: description.
+Smell: creamy, butterscotch, buttery
+Taste:  description.
+Main nutrient(s): unknown
+Category: Liquids
+------
+Name: Liquor (vodka)
+Visual: clear liquid, may be brightly colored (flavored)
+Texture: thinner than water
+Smell: similar to isopropyl alcohol but less pungent, almost odorless. May smell strongly of flavoring.
+Taste:  flavorless, but strong with a burn, not at all sweet unless flavored.
+Main nutrient(s): carbs
+Category: Liquids
+------
+Name: Soup (tomato)
+Visual: Red liquid with some texture
+Texture: Smooth and very slightly bumpy/pulpy
+Smell: description.
+Taste:  description.
+Main nutrient(s): carbs (sugar) - fats - vitamins
+Category: Liquids
+------
+Name: Tea (black)
+Visual: without milk - red, dark brown or black watery liquid; with milk: beige slightly-thicker-than-water liquid.
+Texture: without milk - hot, watery; with milk: hot, watery, leaves milk deposits on the tongue.
+Smell: without milk -light, earthy, dirt; with milk: bright, earthy, sweet, hint of vanilla.
+Taste:  without milk - earthy, bitter (without sugar), grassy; with milk: hint of vanilla, earthy, creamy.
+Main nutrient(s): micronutrients
+Category: Liquids
